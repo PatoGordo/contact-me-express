@@ -12,7 +12,7 @@
 yarn add express firebase cors body-parser 
 ```
 
-## Usag
+## Usage
 ```sh
 yarn start
 ```
