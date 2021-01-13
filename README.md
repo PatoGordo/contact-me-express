@@ -21,7 +21,7 @@ yarn start
 
 👤 **PatoGordo**
 
-* Website: patogordo.ga
+* Website: [@https:\/\/patogordo.ga](https://patogordo.ga)
 * Github: [@https:\/\/github.com\/PatoGordo](https://github.com/https:\/\/github.com\/PatoGordo)
 
 ## 🤝 Contributing
