@@ -18,6 +18,10 @@ app.listen(process.env.PORT || 3000, (err, data) => {
     console.log(`Connected! port: ${port} `)
 })
 
+app.get("/", (req, res) => {
+  res.send('<a href="/get">Go to get</a>')
+})
+
 app.get("/get/",(req, res) => {
   get_data.getData((data) => {
     res.send({"status": 200,"status_code": 1, "results":data})
