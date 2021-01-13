@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to contact-me-express 👋</h1>
 <p>
-  <img alt="Version" src="https://img.shields.io/badge/version-1.0---blue.svg?cacheSeconds=2592000" />
+  <img alt="Version" src="https://img.shields.io/badge/version-1.0-blue.svg?cacheSeconds=2592000" />
   <a href="https://github.com/PatoGordo/contact-me-express/blob/main/LICENSE" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
   </a>
@@ -12,8 +12,7 @@
 yarn add express firebase cors body-parser 
 ```
 
-## Usage
-
+## Usag
 ```sh
 yarn start
 ```
